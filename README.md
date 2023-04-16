@@ -6,7 +6,8 @@ is where you add products and all that.
 ## how to use
 the environment variables are in next.config.js, edit them to your use case
 
-then ```
+then 
+```
 npm i
 npm run dev
 ```
@@ -18,7 +19,8 @@ is where you add products and all that.
 ## how to use
 the environment variables are in next.config.js, edit them to your use case
 
-then ```
+then
+```
 npm i
 npm run dev
 ```
