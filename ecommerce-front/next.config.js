@@ -5,7 +5,7 @@ const nextConfig = {
     styledComponents: true,
   },
   env: {
-    MONGODB_URI: 'mongodb+srv://admin-valiantlynx:pineapple123@cluster0.lujhkmj.mongodb.net/?retryWrites=true&w=majority',
+    MONGODB_URI: 'mongodb+srv://username:password@cluster0.lujhkmj.mongodb.net/?retryWrites=true&w=majority',
     GOOGLE_ID: '794340205891-lnik4lr1kcnk6ov3ofh3s553v4dkrq26.apps.googleusercontent.com',
     GOOGLE_SECRET: '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',
     STRIPE_PK: 'pk_test_51MxJ2XBNuSxHXHzCRJIpjF4qwCnVCKByJE6VANIeX3JTJRkjpBqghRqYz5X1D71jiAE4b7tv4NZJPq9ezYFETx2c00wRVOYE2L',
